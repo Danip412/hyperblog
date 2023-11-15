@@ -1,5 +1,6 @@
+##Hyperblog 💚
 
-un blog increible para el [Curso de Git y GitHub](https://platzi.com/cursos/git-github/"Curso de Git y GitHub" "Curso de Git y GitHub") de [Platzi](https://platzi.com "Platzi")
+Un blog increible para el [Curso de Git y GitHub](https://platzi.com/cursos/git-github/"Curso de Git y GitHub" "Curso de Git y GitHub") de [Platzi](https://platzi.com "Platzi")
 
 >El curso de Git y GitHub de Platzi es lo que me hacia falta para generar ingresos para mi casa, mi familia y ayudar a todos.
 >Daniela Rodriguez
