@@ -14,8 +14,7 @@ En este Curso se Ve:
 * Todas las soluciones posibles a los conflicto
 * creado por el increible platzi team junto a daniela
 * incluye ejemplos en windows, linux y mac
-
-
+* Disponible para todas las edades
 
 Y como un recordatorio por si ves este README.md : **Es un readme.md de prueba y ejemplo**. Diseñado para el curso de platzi. si llegas acá sabes que es una prueba y mejor ve [a ver el Curso](https://platzi.com/cursos/git-github "a ver el Curso")
 
